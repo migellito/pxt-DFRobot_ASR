@@ -11,7 +11,7 @@
  */
 
 // ASR Module IIC communication address
-const ASR_ADDRESSS = 0x4F
+const ASR_ADDRESSS = 0x79
 
 /**
  * Only Chinese characters can be recognized. The characters to be recognized are converted into pinyin letters separated by Spaces, such as: Start --> Kai SHI
